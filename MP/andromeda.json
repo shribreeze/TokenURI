@@ -1,0 +1,27 @@
+{
+    "name": "SBT-1",
+    "description": "It is a NFT for investors which show that they have been invested in this Startup.",
+    "image": "https://raw.githubusercontent.com/shribreeze/TokenURI/main/MP/andromeda.jpg",
+    "attributes": [
+        {
+            "trait_type": "Token Name",
+            "value": "SBT-1"
+        },
+        {
+            "trait_type": "Value",
+            "value": "100000 andr"
+        },
+        {
+            "trait_type": "Mint Date",
+            "value": "06/04/2024"
+        },
+        {
+            "trait_type": "Need",
+            "value": "You will be the investor."
+        },
+        {
+            "trait_type": "Condition",
+            "value": "5% equity"
+        }
+    ]
+}
