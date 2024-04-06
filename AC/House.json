@@ -1,0 +1,23 @@
+{
+    "name": "HouseToken1",
+    "description": "It is a NFT for House Auction Winner.",
+    "image": "https://raw.githubusercontent.com/shribreeze/TokenURI/main/AC/House.avif",
+    "attributes": [
+        {
+            "trait_type": "Token Name",
+            "value": "HouseToken1"
+        },
+        {
+            "trait_type": "Value",
+            "value": "Highest Bid"
+        },
+        {
+            "trait_type": "Mint Date",
+            "value": "06/04/2024"
+        },
+        {
+            "trait_type": "Benefits",
+            "value": "Get House"
+        }
+    ]
+}
