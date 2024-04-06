@@ -1,7 +1,7 @@
 {
     "name": "PLT-2",
     "description": "It is a NFT for Public Library CrowdFund.",
-    "image": "https://github.com/shribreeze/TokenURI/blob/main/CF/LibraryNFT-1.jpg",
+    "image": "https://raw.githubusercontent.com/shribreeze/TokenURI/main/CF/LibraryNFT-1.jpg",
     "attributes": [
         {
             "trait_type": "Token Name",
