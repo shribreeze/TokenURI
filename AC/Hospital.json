@@ -1,11 +1,11 @@
 {
-    "name": "HospitalToken1",
+    "name": "HospitalToken",
     "description": "It is a NFT for hospital Auction Winner.",
     "image": "https://raw.githubusercontent.com/shribreeze/TokenURI/main/AC/hospital.webp",
     "attributes": [
         {
             "trait_type": "Token Name",
-            "value": "HospitalToken1"
+            "value": "HNFT-2"
         },
         {
             "trait_type": "Value",
@@ -17,7 +17,7 @@
         },
         {
             "trait_type": "Benefits",
-            "value": "Get Hospital"
+            "value": "Get the Hospital"
         }
     ]
 }
