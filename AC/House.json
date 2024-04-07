@@ -1,11 +1,11 @@
 {
-    "name": "HouseToken1",
+    "name": "HouseToken",
     "description": "It is a NFT for House Auction Winner.",
     "image": "https://raw.githubusercontent.com/shribreeze/TokenURI/main/AC/House.avif",
     "attributes": [
         {
             "trait_type": "Token Name",
-            "value": "HouseToken1"
+            "value": "HNFT-1"
         },
         {
             "trait_type": "Value",
@@ -17,7 +17,7 @@
         },
         {
             "trait_type": "Benefits",
-            "value": "Get House"
+            "value": "Get the House"
         }
     ]
 }
